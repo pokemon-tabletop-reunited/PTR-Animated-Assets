@@ -1,0 +1,28 @@
+{
+  "id": "ptr-animated-assets",
+  "title": "PTR Animated Assets",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11.315",
+    "verified": "12.316"
+  },
+  "authors": [
+    {
+      "name": "Ashe Eon",
+      "email": "ptu@soaringnetwork.com",
+      "url": "https://github.com/dylanpiera/Foundry-Pokemon-Tabletop-United-System"
+    },
+    {
+      "name": "Silverfox3853",
+      "url": "https://startplaying.games/gm/fox-the-gm"
+    },
+    {
+      "name": "venti! (mahouchoujou)"
+    }
+  ],
+  "esmodules": [
+    "ptr-animated-assets.mjs"
+  ],
+  "background": "modules/ptr-animated-assets/banner.webp",
+  "description": "Setup the <a href=\"http://github.com/dylanpiera/foundry-Pokemon-Tabletop-United-System/\">PTR System</a> to use Animated Sprites instead of the default static ones.\n\nWarning: Low-end devices may experience degraded performance."
+}
